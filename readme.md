@@ -36,6 +36,6 @@
 
 ## Разное
 
-* [Проверка connect to DB]()
-*  
+* [Проверка connect to DB](/Help/CrudTest)
+
 * [Подготовленный образ ALT Linux 10 Образование v 0.1 от17.05.22](https://disk.yandex.ru/d/ROqhnEvYL9OdXg)
