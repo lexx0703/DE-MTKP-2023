@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Text?>
+
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="application.SampleController">
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="400.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button layoutX="160.0" layoutY="123.0" mnemonicParsing="false" onAction="#login" text="Login" />
+            <TextField fx:id="userText" layoutX="102.0" layoutY="37.0" promptText="Username" />
+            <TextField fx:id="passText" layoutX="102.0" layoutY="76.0" promptText="Password" />
+            <Text fx:id="LoginOnDBlabel" layoutX="160.0" layoutY="176.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Login in DB" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>
