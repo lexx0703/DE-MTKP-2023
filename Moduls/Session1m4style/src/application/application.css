@@ -1,0 +1,6 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+	p {
+		color: purple;
+		font-family: 'Comic Sans MS', cursive;
+		font-size: 8em;
+	}

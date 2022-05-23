@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="application.LoggedInController">
+   <bottom>
+      <AnchorPane prefHeight="200.0" prefWidth="585.0" style="-fx-background-color: #FFFFFF;" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="label_welcome" layoutX="90.0" layoutY="47.0" text="Добро пожаловать зарегестрированный пользователь" />
+            <Button fx:id="button_logout" layoutX="243.0" layoutY="121.0" mnemonicParsing="false" style="-fx-background-color: #498C51;" text="Выход">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+   </bottom>
+</BorderPane>
