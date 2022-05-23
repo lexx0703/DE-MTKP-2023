@@ -22,7 +22,7 @@
 
 * [Модуль 4-1: Разработка desktop-приложений. Java Styling.](/Moduls/Session1m4Styling.pdf)
   
-  [Минипроект](/Moduls/Session1m4style) к модулю 4-1 по созданию оконных форм в `Java`. 
+  [Минипроект](/Moduls/Session1m4style) к `Модулю 4-1` по созданию оконных форм в `Java`. 
 
 * [Модуль 4-2: Разработка desktop-приложений. Java Coding (в разработке).]()
 
