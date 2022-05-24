@@ -22,7 +22,7 @@
 
 * [Модуль 3: Разработка баз данных, объектов баз данных и импорт.](/Moduls/AdmDB_mod_3.pdf)
 
-   [Файлы данных](/Moduls/ResourseFile) к `Модулю 3`. [Дамп базы данных](/Help/After_analyzing_files.sql) с импортированными данными из [файлов](/Variant_1_2022/Сессия%201) для импорта. СУБД `MySql`.
+   [Файлы данных](/Moduls/ResourseFile) к `Модулю 3`. [Дамп базы данных](/Help/After_analyzing_files.sql) с импортированными данными из [файлов](/Variant_1_2022/Сессия%201) для импорта. СУБД - `MySql`.
 
 * [Модуль 4-1: Разработка desktop-приложений. Java **Styling**. Среда моделирования Scene Builder. IDE Eclipse. Проект Java FX](/Moduls/Session1m4Styling.pdf)
   
