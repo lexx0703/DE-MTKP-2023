@@ -6,7 +6,9 @@
 
 ## Семинар
 
-* [Анализ Модулей 1-3. Общие вопросы](training_days/Training_day_1.pdf)
+* [Анализ Модулей 1-2. Общие вопросы](training_days/Training_day_1.pdf)
+* 
+* [Анализ Модуля 3. Общие вопросы](/training_days/Training_day_2.pdf)
 
 ## Рекомендации по выполнению заданий
 
