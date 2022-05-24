@@ -22,7 +22,7 @@
 
    [Файлы данных](/Moduls/ResourseFile) к `Модулю 3`.
 
-* [Модуль 4-1: Разработка desktop-приложений. Java **Styling**.](/Moduls/Session1m4Styling.pdf)
+* [Модуль 4-1: Разработка desktop-приложений. Java **Styling**. Среда моделирования Scene Builder. IDE Eclipse. Проект Java FX](/Moduls/Session1m4Styling.pdf)
   
   [Минипроект](/Moduls/Session1m4style) к `Модулю 4-1` по созданию оконных форм в `Java`. 
 
