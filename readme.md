@@ -8,7 +8,7 @@
 
 * [Анализ Модулей 1-2. Общие вопросы](training_days/Training_day_1.pdf)
 * 
-* [Анализ Модуля 3. Общие вопросы](/training_days/Training_day_2.pdf)
+* [Анализ Модулей 3-4. Общие вопросы](/training_days/Training_day_2.pdf)
 
 ## Рекомендации по выполнению заданий
 
@@ -22,7 +22,7 @@
 
    [Файлы данных](/Moduls/ResourseFile) к `Модулю 3`.
 
-* [Модуль 4-1: Разработка desktop-приложений. Java Styling.](/Moduls/Session1m4Styling.pdf)
+* [Модуль 4-1: Разработка desktop-приложений. Java **Styling**.](/Moduls/Session1m4Styling.pdf)
   
   [Минипроект](/Moduls/Session1m4style) к `Модулю 4-1` по созданию оконных форм в `Java`. 
 
